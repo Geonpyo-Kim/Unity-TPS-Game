@@ -33,7 +33,7 @@ public class Button_forDoor : MonoBehaviour
     {
         GameObject[] Monsters = GameObject.FindGameObjectsWithTag("Monster");
 
-        // Player가 버튼을 누를 수 있는 (문을 열 수 있는) 조건을 추가해야 함!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+        // Player가 버튼을 누를 수 있는 (문을 열 수 있는) 조건
         if((Monsters.Length == 9 || Monsters.Length == 5) &&  collision.gameObject.CompareTag("Player"))
         {
             isButtonPressed = true;
