@@ -16,5 +16,5 @@
       
     
 ### Game Demo ###
-<video src="[복사한_링크](https://github.com/user-attachments/assets/ed79d4e1-6eaf-4de7-9ec2-704f64e809e1)" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/ed79d4e1-6eaf-4de7-9ec2-704f64e809e1" controls width="600"></video>
 
