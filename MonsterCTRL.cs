@@ -28,7 +28,7 @@ public class MonsterCTRL : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        _renderer = GetComponentInChildren<SkinnedMeshRenderer>();  // Renderer 뭐 하는 코드
+        _renderer = GetComponentInChildren<SkinnedMeshRenderer>();  // Renderer
 
         int idx = Random.Range(0, textureSkin.Length);
 
@@ -116,11 +116,11 @@ public class MonsterCTRL : MonoBehaviour
             else
             {
                 MonsterState = State.IDLE;
-                // 추가해야 될 것: 이 경우에 PATROL 상태 추가. IDLE이랑 PATROL 왔다갔다 하면 될 듯?
+                // 추가해야 될 것: 이 경우에 PATROL 상태 추가. IDLE이랑 PATROL 왔다갔다 하기.
                 
             }
 
-            // if (isDied)이면, State를 DEAD로 바꾸고 while문 종료..??
+            // if (isDied)이면, State를 DEAD로 바꾸고 while문 종료?
         }
 
     }
@@ -177,7 +177,7 @@ public class MonsterCTRL : MonoBehaviour
     }
 
 
-    // 수업 내용 ****************************************************************
+    // 수업 내용 *****
     
     void OnPlayerDie()
     {
