@@ -5,7 +5,7 @@
 ### Game Introduction ###
   - This game consists of 3 stages.
   - To win the game, player must keep unlocking doors and open 3 chests in the final stage.
-  - The monsters will follow the player, so the player needs to avoid or eliminate them.
+  - To unlock the door, the player must eliminate the monsters in the stage.
 
 ### Additional Features ###
   - Right-clicking activates the zoom-in function.
