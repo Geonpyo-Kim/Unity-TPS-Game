@@ -74,7 +74,7 @@ public class PlayerCTRL : MonoBehaviour
     */
 
 
-    // 마지막 수업 내용 ***************************************************
+    // 마지막 수업 내용 *****
 
     public delegate void PlayerDieHandler();
 
@@ -315,7 +315,7 @@ public class PlayerCTRL : MonoBehaviour
 
             // Destroy(gameObject, 1.5f);
 
-            // 수업 내용 ***************************************************
+            // 수업 내용 *****
             GameManager.instance.isGameOver = true;
 
             OnPlayerDie();
