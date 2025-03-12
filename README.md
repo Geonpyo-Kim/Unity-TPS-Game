@@ -16,6 +16,5 @@
       
     
 ### Game Demo ###
-1. 끝까지 진행 (2라운드에서 긴박한 모습도 보여주고, 박스 깨부수는 장면도 보여주기. 3라운드에서는, 마지막 박스를 앞쪽에서 열어야 한다.)
-2. monster한테 죽었을 때
+<video src="[복사한_링크](https://github.com/user-attachments/assets/ed79d4e1-6eaf-4de7-9ec2-704f64e809e1)" controls width="600"></video>
 
