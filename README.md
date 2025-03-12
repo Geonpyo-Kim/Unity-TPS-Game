@@ -13,7 +13,7 @@
   - The player and monsters each have unique animations for attacking, getting shot, and dying.
   - This game utilizes Skybox and ProBuilder, allowing players to enjoy a beautifully designed map.
 
-### How to Play ###
+### How to Download & Play ###
 - You can download and play the game from the [Releases] (https://github.com/Geonpyo-Kim/Unity-TPS-Game/releases/tag/v1.0.0).
     
 ### Game Demo ###
