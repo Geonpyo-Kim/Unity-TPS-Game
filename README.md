@@ -1,4 +1,4 @@
-# Unity Project: Three-Person-Shooter Game #
+# Unity Project: Third-Person-Shooter Game #
 
 ### A three-stage shooter game where players fight monsters, unlock doors, and open chests to win. ###
 
